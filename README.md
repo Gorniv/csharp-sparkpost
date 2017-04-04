@@ -1,3 +1,14 @@
+
+[nuget](https://www.myget.org/feed/gorniv/package/nuget/SparkPost.Core)
+
+Your NuGet V3 feed URL (Visual Studio 2015+)
+
+`https://www.myget.org/F/gorniv/api/v3/index.json`
+
+Your NuGet V2 feed URL (Visual Studio 2012+)
+
+`https://www.myget.org/F/gorniv/api/v2`
+
 # C# Library for [SparkPost](https://www.sparkpost.com)
 
 [![Travis CI](https://travis-ci.org/darrencauthon/csharp-sparkpost.svg?branch=master)](https://travis-ci.org/darrencauthon/csharp-sparkpost)
